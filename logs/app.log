@@ -1,0 +1,174 @@
+2022-08-13 17:05:36	Not found. D:\projects\todo-list\bootstrap\Router.php 29
+#0 D:\projects\todo-list\bootstrap\init.php(13): Router::execute('GET', '/ergerg/34t')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 17:05:58	Not found. D:\projects\todo-list\bootstrap\Router.php 29
+#0 D:\projects\todo-list\bootstrap\init.php(13): Router::execute('GET', NULL)
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 17:06:21	Not found. D:\projects\todo-list\bootstrap\Router.php 29
+#0 D:\projects\todo-list\bootstrap\init.php(13): Router::execute('GET', NULL)
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 17:15:43	Value 'dfg' should be in array. D:\projects\todo-list\bootstrap\validator.php 11
+#0 D:\projects\todo-list\app\Controller\HomeController.php(24): shouldBeInArray('dfg', Array)
+#1 D:\projects\todo-list\bootstrap\Router.php(28): App\Controller\HomeController->index()
+#2 D:\projects\todo-list\bootstrap\init.php(15): Router::execute('GET', '/')
+#3 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#4 {main}
+2022-08-13 17:15:56	Value 'dfg' should be in array. D:\projects\todo-list\bootstrap\validator.php 11
+#0 D:\projects\todo-list\app\Controller\HomeController.php(24): shouldBeInArray('dfg', Array)
+#1 D:\projects\todo-list\bootstrap\Router.php(28): App\Controller\HomeController->index()
+#2 D:\projects\todo-list\bootstrap\init.php(15): Router::execute('GET', '/')
+#3 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#4 {main}
+2022-08-13 17:28:54	Value 'desc' should be in array. D:\projects\todo-list\bootstrap\validator.php 11
+#0 D:\projects\todo-list\app\Controller\HomeController.php(25): shouldBeInArray('desc', Array)
+#1 D:\projects\todo-list\bootstrap\Router.php(28): App\Controller\HomeController->index()
+#2 D:\projects\todo-list\bootstrap\init.php(15): Router::execute('GET', '/')
+#3 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#4 {main}
+2022-08-13 17:29:15	Value 'desc' should be in array. D:\projects\todo-list\bootstrap\validator.php 11
+#0 D:\projects\todo-list\app\Controller\HomeController.php(25): shouldBeInArray('desc', Array)
+#1 D:\projects\todo-list\bootstrap\Router.php(28): App\Controller\HomeController->index()
+#2 D:\projects\todo-list\bootstrap\init.php(15): Router::execute('GET', '/')
+#3 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#4 {main}
+2022-08-13 17:29:17	Value 'desc' should be in array. D:\projects\todo-list\bootstrap\validator.php 11
+#0 D:\projects\todo-list\app\Controller\HomeController.php(25): shouldBeInArray('desc', Array)
+#1 D:\projects\todo-list\bootstrap\Router.php(28): App\Controller\HomeController->index()
+#2 D:\projects\todo-list\bootstrap\init.php(15): Router::execute('GET', '/')
+#3 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#4 {main}
+2022-08-13 17:29:19	Value 'desc' should be in array. D:\projects\todo-list\bootstrap\validator.php 11
+#0 D:\projects\todo-list\app\Controller\HomeController.php(25): shouldBeInArray('desc', Array)
+#1 D:\projects\todo-list\bootstrap\Router.php(28): App\Controller\HomeController->index()
+#2 D:\projects\todo-list\bootstrap\init.php(15): Router::execute('GET', '/')
+#3 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#4 {main}
+2022-08-13 17:29:26	Value 'desc' should be in array. D:\projects\todo-list\bootstrap\validator.php 11
+#0 D:\projects\todo-list\app\Controller\HomeController.php(25): shouldBeInArray('desc', Array)
+#1 D:\projects\todo-list\bootstrap\Router.php(28): App\Controller\HomeController->index()
+#2 D:\projects\todo-list\bootstrap\init.php(15): Router::execute('GET', '/')
+#3 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#4 {main}
+2022-08-13 17:29:29	Value 'desc' should be in array. D:\projects\todo-list\bootstrap\validator.php 11
+#0 D:\projects\todo-list\app\Controller\HomeController.php(25): shouldBeInArray('desc', Array)
+#1 D:\projects\todo-list\bootstrap\Router.php(28): App\Controller\HomeController->index()
+#2 D:\projects\todo-list\bootstrap\init.php(15): Router::execute('GET', '/')
+#3 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#4 {main}
+2022-08-13 17:39:55	Value '0' should greater than 0. D:\projects\todo-list\bootstrap\validator.php 17
+#0 D:\projects\todo-list\app\Controller\HomeController.php(24): shouldBeGrater('0', 0)
+#1 D:\projects\todo-list\bootstrap\Router.php(28): App\Controller\HomeController->index()
+#2 D:\projects\todo-list\bootstrap\init.php(15): Router::execute('GET', '/')
+#3 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#4 {main}
+2022-08-13 17:40:21	Not found. D:\projects\todo-list\bootstrap\Router.php 32
+#0 D:\projects\todo-list\bootstrap\init.php(15): Router::execute('GET', '/fgh')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 17:41:08	Not found. D:\projects\todo-list\bootstrap\Router.php 32
+#0 D:\projects\todo-list\bootstrap\init.php(15): Router::execute('GET', '/task/add')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 18:04:46	Not found. D:\projects\todo-list\bootstrap\Router.php 32
+#0 D:\projects\todo-list\bootstrap\init.php(15): Router::execute('GET', '/fgh')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 18:24:28	Not found. D:\projects\todo-list\bootstrap\Router.php 30
+#0 D:\projects\todo-list\bootstrap\init.php(15): Router::execute('GET', '/admin')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 18:31:02	Not found. D:\projects\todo-list\bootstrap\Router.php 30
+#0 D:\projects\todo-list\bootstrap\init.php(15): Router::execute('GET', '/admin')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 18:50:05	Not found. D:\projects\todo-list\bootstrap\Router.php 30
+#0 D:\projects\todo-list\bootstrap\init.php(17): Router::execute('GET', '/admin/logout')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 18:50:37	Not found. D:\projects\todo-list\bootstrap\Router.php 30
+#0 D:\projects\todo-list\bootstrap\init.php(17): Router::execute('GET', '/admin/logout')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 18:50:38	Not found. D:\projects\todo-list\bootstrap\Router.php 30
+#0 D:\projects\todo-list\bootstrap\init.php(17): Router::execute('GET', '/admin/logout')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 18:50:39	Not found. D:\projects\todo-list\bootstrap\Router.php 30
+#0 D:\projects\todo-list\bootstrap\init.php(17): Router::execute('GET', '/admin/logout')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 18:51:51	Not found. D:\projects\todo-list\bootstrap\Router.php 30
+#0 D:\projects\todo-list\bootstrap\init.php(17): Router::execute('GET', '/admin/logout')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 18:58:07	Not found. D:\projects\todo-list\bootstrap\Router.php 30
+#0 D:\projects\todo-list\bootstrap\init.php(17): Router::execute('GET', '/task/edit')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 19:20:53	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`content` = 'Hello <script>vulnerability</script>123',`status` = '1'
+          ' at line 2 D:\projects\todo-list\bootstrap\db.php 31
+#0 D:\projects\todo-list\bootstrap\db.php(31): PDOStatement->execute()
+#1 D:\projects\todo-list\app\Model\Task.php(60): dbQuery('\r\n            U...')
+#2 D:\projects\todo-list\app\Controller\AdminController.php(80): App\Model\Task->update('6', Array)
+#3 D:\projects\todo-list\bootstrap\Router.php(26): App\Controller\AdminController->updateTask()
+#4 D:\projects\todo-list\bootstrap\init.php(17): Router::execute('POST', '/task/edit')
+#5 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#6 {main}
+2022-08-13 19:23:16	SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`content` = 'Hello <script>vulnerability</script>123',`status` = '1'
+          ' at line 2 D:\projects\todo-list\bootstrap\db.php 31
+#0 D:\projects\todo-list\bootstrap\db.php(31): PDOStatement->execute()
+#1 D:\projects\todo-list\app\Model\Task.php(65): dbQuery('\r\n            U...')
+#2 D:\projects\todo-list\app\Controller\AdminController.php(80): App\Model\Task->update('6', Array)
+#3 D:\projects\todo-list\bootstrap\Router.php(26): App\Controller\AdminController->updateTask()
+#4 D:\projects\todo-list\bootstrap\init.php(17): Router::execute('POST', '/task/edit')
+#5 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#6 {main}
+2022-08-13 19:37:51	Not found. D:\projects\todo-list\bootstrap\Router.php 30
+#0 D:\projects\todo-list\bootstrap\init.php(18): Router::execute('GET', '/?page=2&sort_f...')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 19:53:17	Неавторизованный доступ. D:\projects\todo-list\bootstrap\validator.php 29
+#0 D:\projects\todo-list\app\Controller\AdminController.php(57): shouldBeAdmin()
+#1 D:\projects\todo-list\bootstrap\Router.php(26): App\Controller\AdminController->updateTaskView()
+#2 D:\projects\todo-list\bootstrap\init.php(21): Router::execute('GET', '/task/edit')
+#3 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#4 {main}
+2022-08-13 19:56:27	Not found. D:\projects\todo-list\bootstrap\Router.php 30
+#0 D:\projects\todo-list\bootstrap\init.php(21): Router::execute('GET', '/admin/login')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 19:56:33	Not found. D:\projects\todo-list\bootstrap\Router.php 30
+#0 D:\projects\todo-list\bootstrap\init.php(21): Router::execute('GET', '/admin/login')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 19:56:48	Not found. D:\projects\todo-list\bootstrap\Router.php 30
+#0 D:\projects\todo-list\bootstrap\init.php(21): Router::execute('GET', '/admin/login')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 19:56:48	Not found. D:\projects\todo-list\bootstrap\Router.php 30
+#0 D:\projects\todo-list\bootstrap\init.php(21): Router::execute('GET', '/admin/login')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 19:56:49	Not found. D:\projects\todo-list\bootstrap\Router.php 30
+#0 D:\projects\todo-list\bootstrap\init.php(21): Router::execute('GET', '/admin/login')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 19:56:49	Not found. D:\projects\todo-list\bootstrap\Router.php 30
+#0 D:\projects\todo-list\bootstrap\init.php(21): Router::execute('GET', '/admin/login')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 19:56:50	Not found. D:\projects\todo-list\bootstrap\Router.php 30
+#0 D:\projects\todo-list\bootstrap\init.php(21): Router::execute('GET', '/admin/login')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 19:56:52	Not found. D:\projects\todo-list\bootstrap\Router.php 30
+#0 D:\projects\todo-list\bootstrap\init.php(21): Router::execute('GET', '/admin/login')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
+2022-08-13 19:57:33	Not found. D:\projects\todo-list\bootstrap\Router.php 30
+#0 D:\projects\todo-list\bootstrap\init.php(21): Router::execute('GET', '/admin/login')
+#1 D:\projects\todo-list\public\index.php(3): require_once('D:\\projects\\tod...')
+#2 {main}
